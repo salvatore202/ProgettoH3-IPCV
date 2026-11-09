@@ -82,7 +82,7 @@ Viene implementata e addestrata da zero una [Fully Convolutional Network](https:
 
 La FCN viene addestrata con diverse loss, singolarmente e in combinazione:
 
-- **Cross-Entropy**, eventualmente pesata per classe e con i pixel non etichettati ignorati: $\mathcal{L}_{CE} = -\frac{1}{N}\sum_{i}\sum_{c} y_{i,c}\log p_{i,c}$
+- **Cross-Entropy**, eventualmente pesata per classe e con i pixel non etichettati ignorati: $ \mathcal{L}_{CE} = -\frac{1}{N}\sum_{i}\sum_{c} y_{i,c}\log p_{i,c} $
 - **Jaccard (IoU) Loss**, che ottimizza direttamente l'IoU: $\mathcal{L}_{J} = 1 - \frac{\sum_i p_i g_i}{\sum_i p_i + \sum_i g_i - \sum_i p_i g_i}$
 - **Dice Loss**, robusta alle classi rare: $\mathcal{L}_{Dice} = 1 - \frac{2\sum_i p_i g_i}{\sum_i p_i + \sum_i g_i}$
 - **Focal Loss**, che si concentra sui pixel difficili: $\mathcal{L}_{F} = -\alpha\,(1-p_t)^{\gamma}\log p_t$
