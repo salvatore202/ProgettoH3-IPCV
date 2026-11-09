@@ -26,10 +26,9 @@ Le attività svolte sono:
 6. **Valutazione** di tutti i metodi con metriche semantiche e di istanza.
 7. **Explainable AI**: *Activation Maximization* per interpretare le feature apprese dalla FCN.
 
-> ## CODICE DEL PROGETTO
-> 
-> Tutto il codice sorgente è ospitato e testabile direttamente su Kaggle.
->      [![Kaggle](https://img.shields.io/badge/Apri_il-Notebook_Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/gianmarcoiovino/notebookprogettoh3) 
+ ## CODICE DEL PROGETTO
+ Tutto il codice sorgente è ospitato e testabile direttamente su Kaggle.
+      [![Kaggle](https://img.shields.io/badge/Apri_il-Notebook_Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/gianmarcoiovino/notebookprogettoh3) 
 ## Dataset
 
 ### COCO 2017 (Stuff)
