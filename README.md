@@ -31,8 +31,12 @@ Le attività svolte sono:
  ## Codice del Progetto
  Tutto il codice sorgente è ospitato e testabile direttamente su Kaggle.
       [![Kaggle](https://img.shields.io/badge/Apri_il-Notebook_Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/gianmarcoiovino/notebookprogettoh3) 
-
+<p align="center">
  <img src="docs/TutorialKaggle.png" alt="Edit ultima versione -Kaggle" width="80%">
+
+</p>
+
+
 ## Dataset
 
 ### COCO 2017 (Stuff)
