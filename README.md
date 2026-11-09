@@ -1,8 +1,10 @@
 # Segmentazione Semantica e di Istanza su COCO 2017 e Cityscapes
 
-**Gruppo H3** · Image Processing & Computer Vision 2026
+**Gruppo H3** · Image Processing for Computer Vision 2026
 
-<!-- TODO: aggiungere i nomi dei componenti del gruppo -->
+- [Salvatore Raiola](https://www.linkedin.com/in/salvatore-raiola-0b7329363/)
+- [Gianmarco Iovino](https://www.linkedin.com/in/gianmarco-iovino/)
+- [Francesco Lepre](https://www.linkedin.com/in/francesco-lepre-631a203b6/)
 
 <p align="center">
   <img src="docs/cityscapes_input.jpg" alt="Cityscapes - immagine di input" width="32%">
